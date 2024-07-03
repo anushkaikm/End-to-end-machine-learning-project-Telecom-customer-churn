@@ -13,7 +13,7 @@ The primary objective of this project is to build a data-driven solution that pr
 
 ## Data Set
 
-The datasets used in this project are sourced from Kaggle and consist of 20 columns representing various characteristics of the customers of a fictional telecommunications corporation. The target variable is the `Churn` column, which indicates whether a customer left the company within the last month (`Yes`) or not (`No`).
+The datasets used in this project are sourced from [Kaggle](https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets) and consist of 20 columns representing various characteristics of the customers of a fictional telecommunications corporation. The target variable is the `Churn` column, which indicates whether a customer left the company within the last month (`Yes`) or not (`No`).
 
 ### Datasets
 
